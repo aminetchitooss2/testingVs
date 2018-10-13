@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app tastta';
   public test='was here';
+  public second:any
 }
